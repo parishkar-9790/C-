@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CX__" targetName="CX__" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2918fb4b-855a-424e-81b8-0aea783af092" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/Theory/Airline Reservation/Airline Reservation/obj/Debug/net6.0/Airline Reservation.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/Theory/Airline Reservation/Airline Reservation/obj/Debug/net6.0/Airline Reservation.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/Theory/Airline Reservation/Airline Reservation/obj/Debug/net6.0/Airline Reservation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/Theory/Airline Reservation/Airline Reservation/obj/Debug/net6.0/Airline Reservation.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/Theory/Airline Reservation/Airline Reservation/obj/Debug/net6.0/Airline Reservation.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/Theory/Airline Reservation/Airline Reservation/obj/Debug/net6.0/Airline Reservation.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/src/Termworks/Termwork1a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/src/Termworks/Termwork1b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/src/Termworks/Termwork2a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/src/Termworks/tempCodeRunnerFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/src/tempCodeRunnerFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/src/tempCodeRunnerFile.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="lr0rdsyt" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3" />
+  </component>
+  <component name="ProjectId" id="235EhoovDaxHkkdEsiIV6J1yHUN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CX__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CX__" TARGET_NAME="CX__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CX__" RUN_TARGET_NAME="CX__">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2918fb4b-855a-424e-81b8-0aea783af092" name="Changes" comment="" />
+      <created>1641015669378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641015669378</updated>
+      <workItem from="1641015672268" duration="302000" />
+      <workItem from="1641016862169" duration="54000" />
+      <workItem from="1644479505438" duration="215000" />
+      <workItem from="1644640071889" duration="65000" />
+      <workItem from="1644640152830" duration="280000" />
+      <workItem from="1644644092635" duration="491000" />
+      <workItem from="1644644604387" duration="179000" />
+      <workItem from="1644646832808" duration="74000" />
+      <workItem from="1644646969963" duration="3000" />
+      <workItem from="1644910001562" duration="150000" />
+      <workItem from="1645256124039" duration="103000" />
+      <workItem from="1645421962012" duration="28000" />
+      <workItem from="1645852734562" duration="11000" />
+      <workItem from="1651331192529" duration="32000" />
+      <workItem from="1651410554898" duration="596000" />
+      <workItem from="1651513013421" duration="15000" />
+      <workItem from="1652384487108" duration="406000" />
+      <workItem from="1653583028448" duration="1209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
