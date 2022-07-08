@@ -1,15 +1,24 @@
 // Author: PARISHKAR SINGH, C++ 2022 //
-#include <X:\parishkar.hpp>
+#include <bits/stdc++.h>
 // #TODO: Figure out what to comment here. //
+using namespace std;
 class Number
 {
     int a;
 
 public:
-    Number(){}
+    Number()
+    {
+        a = 0;
+    }
     Number(int num)
     {
         a = num;
+    }
+    Number(Number &obj)
+    {
+        cout << "copy constructor is called" << endl;
+        a = obj.a;
     }
     void display()
     {
@@ -18,6 +27,10 @@ public:
 };
 int main()
 {
+    Number x, y, z(46);
+    x.display();
+    y.display();
+    z.display();
 
     return 0;
 }

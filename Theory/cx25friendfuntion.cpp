@@ -3,29 +3,35 @@
 // #TODO: Figure out what to comment here. //
 using namespace std;
 
-class dist {
+class dist
+{
 private:
     int meters;
 
 public:
-    dist() {
+    dist()
+    {
         meters = 0;
     }
 
-    void displayData() {
-        cout << "Meters value" << meters;
+    void displayData()
+    {
+        cout << "Meters value-> " << meters;
     }
 
     // signature OR prototype of the function
     friend void addValue(dist &d);
 };
 
-void addValue(dist & d) {
+void addValue(dist &d)
+{
     d.meters = d.meters + 5;
 }
 
-int main() {
+int main()
+{
     dist m;
-
+    addValue(m);
+    m.displayData();
     return 0;
 }
